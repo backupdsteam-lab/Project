@@ -1,0 +1,51 @@
+body {
+background-color: #B2B7EC;
+margin-top: 60px;
+margin-left: 70px;
+margin-right: 60px;
+margin-bottom: 50px;
+}
+
+h1 {
+  font-family: "Chango", sans-serif;
+  font-size: 86px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Sofia", cursive;
+  font-weight: 400;
+  font-size: 37px;
+  font-style: normal;
+}
+
+ a {
+       text-decoration: none;
+}
+
+<style>
+a:link {
+  color: #FFFFFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #521A5F;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ACE8D7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #5464B6;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
