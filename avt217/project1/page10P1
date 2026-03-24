@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dezzy Baez's Project 1</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style2P1.css">
+  </head>
+   <style>
+     body {
+            background-image: url("https://www.billboard.com/wp-content/uploads/2025/07/14-Night-2-Bad-Bunny-PR-Residency-pr-credit-Cheery-Viruet-006-2025-billboard-1548.jpg"); background-size: cover;}
+ </style>
+   <body>
+<h6>Y si hoy me emborracho, pues, que me</h6>
+<h4><a href="IndexP1.html" style="color:#4FD407";>ayuden</h4>
+</body>
+</html>
