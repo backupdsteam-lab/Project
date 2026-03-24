@@ -1,0 +1,33 @@
+body {
+background-color: #FBE9D3;
+margin-top: 50px;
+margin-left: 250px;
+margin-right: 250px;
+margin-bottom: 70px;
+text-align: justify-all;
+}
+
+h1 {
+  font-family: "Lobster", sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  font-style: normal;
+  color: #4A5382;
+}
+
+h2 {
+  font-family: "Lobster", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  font-style: normal;
+  color: #6060AD;
+}
+
+h3{
+  font-family: "Tenor Sans", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  font-style: bold;
+  color: #1B0C49;
+}
+
